@@ -1,1 +1,2 @@
-# Implementa-o-e-An-lise-de-Classifica-o-com-Redes-Convolucionais-e-o-dataset-CUFS
+# Implementação e Análise de Classificação com Redes Convolucionais e o dataset CUFS
+Grupo 12: Larissa Fernanda 
